@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabCompletion": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": true,
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "editor.rulers": [120],
+    "window.zoomLevel": 2
+}
